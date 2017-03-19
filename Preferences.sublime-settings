@@ -21,8 +21,8 @@
 	"color_scheme": "Packages/User/SublimeLinter/Solarized (Dark) (SL).tmTheme",
 	"fade_fold_buttons": false,
 	"fallback_encoding": "TIS-620",
-	"font_face": "Source Code Pro",
-	"font_size": 13,
+	"font_face": "Monaco",
+	"font_size": 11,
 	"highlight_line": true,
 	"ignored_packages":
 	[
